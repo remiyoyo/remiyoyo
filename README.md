@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 My name is Remi, my handle is CtrlAltCookie in most places and here's a rundown of important information about me:
 
 - I'm a woman and my pronouns are she/her
-- I'm a webdev of 5 years
+- I'm a webdev of 7 years
 - I'm a streamer and I stream multiple days a week on https://twitch.tv/ctrlaltcookie
 - It's easiest to reach me on https://twitter.com/ctrlaltcookie
 - I'm currently working on https://ctrlaltcookie.com
-- My favourite language is javascript and i love node, but i can work in basically anything, i'm currently working professionally on a react project backed by kotlin
+- My favourite language is javascript and i love node, but i can work in basically anything, i'm currently working professionally in rust and groovy
 - My favourites food are sushi and pizza
-- I am bisexual and transgender
+- I'm bisexual and transgender
